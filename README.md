@@ -1,2 +1,3 @@
 # template-microservice
-A tiny template for bootstrapping new microservices.
+
+A tiny template for bootstrapping a new microservice.
